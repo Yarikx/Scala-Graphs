@@ -1,0 +1,15 @@
+;; This config was generated using ensime-config-gen. Feel free to customize its contents manually.
+
+(
+
+:project-name "Graphs"
+
+:project-package "org.kpi.graphs"
+
+:sources ("./src/")
+
+:compile-jars ("./lib/" "/opt/scala_home/lib/")
+
+:target "./bin/"
+
+)
