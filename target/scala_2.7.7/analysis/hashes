@@ -1,0 +1,6 @@
+#Source Hashes
+#Sat Mar 12 12:42:29 EET 2011
+src/main/scala/org/kpi/graphs/base/Edge.scala=85fd9d219547bb7163c1ff1e468afd513ff52e2e
+src/main/scala/org/kpi/graphs/base/Vertice.scala=21726b9c9b84b1efb912b036dee5cc88c489731f
+src/main/scala/org/kpi/graphs/base/Graph.scala=1dd24593eb7f658cd9ed299e016f18c7b9f15456
+src/main/scala/Main.scala=10effff084b9aff849ddbcca00d66b48f20059b9

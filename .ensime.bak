@@ -2,8 +2,14 @@
 
 (
 
+:project-name "Graphs"
+
 :project-package "org.kpi.graphs"
 
-:use-sbt t
+:sources ("./src/")
+
+:compile-jars ("./lib/" "/opt/scala_home/lib/")
+
+:target "./bin/"
 
 )

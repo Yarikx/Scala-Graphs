@@ -1,6 +1,6 @@
 package org.kpi.graphs.base;
 
-class Vertice[A](val id:A){
+case class Vertice[A](val id:A){
   def print(){
     println(id toString())
   }
