@@ -1,6 +1,6 @@
 #Source Hashes
-#Sat Mar 12 13:03:03 EET 2011
-src/main/scala/org/kpi/graphs/base/Edge.scala=85fd9d219547bb7163c1ff1e468afd513ff52e2e
-src/main/scala/org/kpi/graphs/base/Vertice.scala=21726b9c9b84b1efb912b036dee5cc88c489731f
-src/main/scala/org/kpi/graphs/base/Graph.scala=1dd24593eb7f658cd9ed299e016f18c7b9f15456
+#Sun Mar 13 13:43:09 EET 2011
+src/main/scala/org/kpi/graphs/base/Edge.scala=dd81beda85b669ba21189f97109e7cd1ff96b57f
+src/main/scala/org/kpi/graphs/base/Vertice.scala=a748fbf6eda2fa9cc1d9fe2e432166cfc9a82a47
+src/main/scala/org/kpi/graphs/base/Graph.scala=2ff44da3b33f4d241e8c45521d1b8e8692b81ade
 src/main/scala/Main.scala=10effff084b9aff849ddbcca00d66b48f20059b9

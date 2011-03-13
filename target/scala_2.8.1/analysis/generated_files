@@ -1,6 +1,6 @@
 #Generated Classes
-#Sat Mar 12 13:03:03 EET 2011
+#Sun Mar 13 13:43:09 EET 2011
 src/main/scala/org/kpi/graphs/base/Edge.scala=target/scala_2.8.1/classes/org/kpi/graphs/base/Edge.class\:target/scala_2.8.1/classes/org/kpi/graphs/base/Edge$.class
 src/main/scala/org/kpi/graphs/base/Vertice.scala=target/scala_2.8.1/classes/org/kpi/graphs/base/Vertice.class\:target/scala_2.8.1/classes/org/kpi/graphs/base/Vertice$.class
-src/main/scala/org/kpi/graphs/base/Graph.scala=target/scala_2.8.1/classes/org/kpi/graphs/base/Graph$.class\:target/scala_2.8.1/classes/org/kpi/graphs/base/Graph.class\:target/scala_2.8.1/classes/org/kpi/graphs/base/Graph$$anonfun$1.class\:target/scala_2.8.1/classes/org/kpi/graphs/base/Graph$$anonfun$getEdges$1.class
+src/main/scala/org/kpi/graphs/base/Graph.scala=target/scala_2.8.1/classes/org/kpi/graphs/base/Graph$.class\:target/scala_2.8.1/classes/org/kpi/graphs/base/Graph.class\:target/scala_2.8.1/classes/org/kpi/graphs/base/Graph$$anonfun$getEdges$1.class
 src/main/scala/Main.scala=target/scala_2.8.1/classes/Main.class\:target/scala_2.8.1/classes/Main$.class
