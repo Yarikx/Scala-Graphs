@@ -20,4 +20,19 @@ class Graph[A,B](val vertices: Set[Vertice[A]], val edges: Set[Edge[B]]){
 
   def &~ (that:Graph[A,B]):Graph[A,B] = new Graph(vertices &~ that.vertices, edges &~ that.edges)
 
+  def serializeToJSON():String = {
+    vertices.map(v => edges.filter(e => e.link._1==v)
+                 .map(x => "{id:"+valueToJSON(x.id)+",link:"+valueToJSON(x.link._2)+"}")
+                 .toList
+                 .mkString("id:"+valueToJSON(v.id)+", edges:[",",","]")   )
+    .toList
+    .mkString("{vertices:[{","},{","}]}")
+  }
+
+ def valueToJSON(v:Any):String = 
+   v match{
+     case v:Int => v.toString
+     case s:Any => "\"" + s + "\""
+   }
+
 }

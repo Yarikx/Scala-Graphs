@@ -12,3 +12,11 @@ console
 compile
 console
 exit
+console
+compile
+console
+co,exit
+exit
+compile
+console
+exit
