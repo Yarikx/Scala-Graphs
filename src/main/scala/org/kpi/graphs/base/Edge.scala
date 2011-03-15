@@ -1,5 +1,5 @@
 package org.kpi.graphs.base;
 
-case class Edge[A](val id:A, val link: (Vertice[_],Vertice[_])){
+case class Edge[A,B](val id:A, val link: (Vertice[B],Vertice[B])){
   override def toString():String=id toString()
 }
