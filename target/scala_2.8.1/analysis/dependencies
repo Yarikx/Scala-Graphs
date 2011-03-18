@@ -1,8 +1,2 @@
 #Source Dependencies
-#Wed Mar 16 00:58:47 EET 2011
-src/main/scala/org/kpi/graphs/base/Edge.scala=src/main/scala/org/kpi/graphs/base/Graph.scala
-src/main/scala/com/twitter/json/extensions.scala=src/main/scala/com/twitter/json/Json.scala
-src/main/scala/org/kpi/graphs/base/Vertice.scala=src/main/scala/org/kpi/graphs/base/Graph.scala\:src/main/scala/org/kpi/graphs/base/Edge.scala
-src/main/scala/org/kpi/graphs/base/Graph.scala=
-src/main/scala/Main.scala=
-src/main/scala/com/twitter/json/Json.scala=
+#Fri Mar 18 02:17:58 EET 2011
