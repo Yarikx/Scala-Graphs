@@ -6,4 +6,5 @@ case class Vertice[A](val id:A){
   }
   
   override def toString():String=id toString()
+    
 }

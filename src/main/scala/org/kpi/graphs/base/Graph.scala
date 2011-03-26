@@ -1,6 +1,9 @@
 package org.kpi.graphs.base;
 
 object Graph{
+  def apply[A,B](vertices:Vertice[A]*)(edges:Edge[B,A]*):Graph[A,B]=
+    Graph(vertices.iterator.toSet,edges.iterator.toSet)
+  
   def parse[A,B](f1:String=>A,f2:String=>B)(s:String):Graph[A,B]={
     import com.twitter.json._;
     

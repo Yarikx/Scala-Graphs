@@ -36,3 +36,41 @@ exit
 compile
 console
 clean
+exit
+update
+scala
+console
+update
+compile
+update
+actions
+test-quick 
+compile
+update
+compile
+exit
+console
+compile
+exit
+exti
+exit
+console
+exit
+console
+compile
+actions
+clean
+update
+get build.scala.versions 
+get def.scala.version 
+set def.scala.version 2.8.1
+update
+reload
+exit
+compilee
+compile
+exit
+compile
+console
+compile
+exit

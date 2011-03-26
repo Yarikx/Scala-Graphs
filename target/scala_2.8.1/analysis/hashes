@@ -1,2 +1,7 @@
 #Source Hashes
-#Fri Mar 18 02:17:58 EET 2011
+#Sat Mar 26 13:37:56 EET 2011
+src/main/scala/org/kpi/graphs/base/Edge.scala=43ddc556de8926aa48a085c14e484cd2e5ee8175
+src/main/scala/com/twitter/json/extensions.scala=6b3b83f06783329a7ee37025f9851e4b873c9809
+src/main/scala/org/kpi/graphs/base/Vertice.scala=57068cd98112830872ffec5d027369b7ad17acf2
+src/main/scala/org/kpi/graphs/base/Graph.scala=fb4e3ff8a872c1f5c647d324d0ca900482e548c7
+src/main/scala/com/twitter/json/Json.scala=757d00765de6deda135b574607dce93dddcb0aac
