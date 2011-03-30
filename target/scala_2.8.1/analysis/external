@@ -1,4 +1,4 @@
 #External Dependencies
-#Wed Mar 30 21:54:45 EEST 2011
+#Wed Mar 30 23:40:21 EEST 2011
 /usr/lib/jvm/java-6-sun-1.6.0.24/jre/lib/rt.jar=src/main/scala/org/kpi/graphs/base/Graph.scala\:src/main/scala/org/kpi/graphs/base/Vertice.scala\:src/main/scala/com/twitter/json/extensions.scala\:src/main/scala/org/kpi/graphs/base/Edge.scala\:src/main/scala/com/twitter/json/Json.scala
 /media/ubuntu_home/yarik/work/KPI/Graphs/project/boot/scala-2.8.1/lib/scala-library.jar=src/main/scala/org/kpi/graphs/base/Graph.scala\:src/main/scala/org/kpi/graphs/base/Vertice.scala\:src/main/scala/com/twitter/json/extensions.scala\:src/main/scala/org/kpi/graphs/base/Edge.scala\:src/main/scala/com/twitter/json/Json.scala

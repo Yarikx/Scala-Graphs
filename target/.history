@@ -84,3 +84,6 @@ console
 console
 compile
 :replay
+exit
+le
+exit

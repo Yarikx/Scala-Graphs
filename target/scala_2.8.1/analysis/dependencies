@@ -1,5 +1,5 @@
 #Source Dependencies
-#Wed Mar 30 21:54:45 EEST 2011
+#Wed Mar 30 23:40:21 EEST 2011
 src/main/scala/org/kpi/graphs/base/Edge.scala=src/main/scala/org/kpi/graphs/base/Graph.scala
 src/main/scala/com/twitter/json/extensions.scala=src/main/scala/com/twitter/json/Json.scala
 src/main/scala/org/kpi/graphs/base/Vertice.scala=src/main/scala/org/kpi/graphs/base/Graph.scala\:src/main/scala/org/kpi/graphs/base/Edge.scala

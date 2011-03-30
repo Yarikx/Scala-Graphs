@@ -3,4 +3,5 @@ bin/
 lib/
 *#*
 *.jar
-
+target/
+*.swp

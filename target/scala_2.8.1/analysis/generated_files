@@ -1,5 +1,5 @@
 #Generated Classes
-#Wed Mar 30 21:54:45 EEST 2011
+#Wed Mar 30 23:40:21 EEST 2011
 src/main/scala/org/kpi/graphs/base/Edge.scala=target/scala_2.8.1/classes/org/kpi/graphs/base/Edge.class\:target/scala_2.8.1/classes/org/kpi/graphs/base/Edge$.class
 src/main/scala/com/twitter/json/extensions.scala=target/scala_2.8.1/classes/com/twitter/json/extensions$.class\:target/scala_2.8.1/classes/com/twitter/json/ConfiggyString$$anonfun$unhexlify$1.class\:target/scala_2.8.1/classes/com/twitter/json/ConfiggyString$$anonfun$unquoteC$1.class\:target/scala_2.8.1/classes/com/twitter/json/extensions.class\:target/scala_2.8.1/classes/com/twitter/json/ConfiggyString$$anonfun$quoteC$1.class\:target/scala_2.8.1/classes/com/twitter/json/ConfiggyString$$anonfun$regexSub$1.class\:target/scala_2.8.1/classes/com/twitter/json/ConfiggyByteArray.class\:target/scala_2.8.1/classes/com/twitter/json/ConfiggyByteArray$$anonfun$hexlify$1.class\:target/scala_2.8.1/classes/com/twitter/json/ConfiggyString.class
 src/main/scala/org/kpi/graphs/base/Vertice.scala=target/scala_2.8.1/classes/org/kpi/graphs/base/Vertice.class\:target/scala_2.8.1/classes/org/kpi/graphs/base/Vertice$.class

@@ -1,5 +1,5 @@
 #Source Hashes
-#Wed Mar 30 21:54:45 EEST 2011
+#Wed Mar 30 23:40:21 EEST 2011
 src/main/scala/org/kpi/graphs/base/Edge.scala=43ddc556de8926aa48a085c14e484cd2e5ee8175
 src/main/scala/com/twitter/json/extensions.scala=6b3b83f06783329a7ee37025f9851e4b873c9809
 src/main/scala/org/kpi/graphs/base/Vertice.scala=57068cd98112830872ffec5d027369b7ad17acf2
