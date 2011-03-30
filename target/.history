@@ -74,3 +74,13 @@ compile
 console
 compile
 exit
+compile 
+console
+exity
+exit
+console
+:r
+:replay
+console
+compile
+:replay

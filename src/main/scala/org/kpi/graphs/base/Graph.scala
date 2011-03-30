@@ -52,4 +52,21 @@ case class Graph[A,B](val vertices: Set[Vertice[A]], val edges: Set[Edge[B,A]]){
   val defaultSerialize = serializeToJSON(valueToJSON(_),valueToJSON(_))
 
   def valueToJSON(v:Any):String = "\"" + v.toString() + "\""
+
+   def sim (kv:Double,ke:Double,that:Graph[A,B]):Double = {
+      ((this & that).vertices.size.toDouble / (this | that).vertices.size.toDouble * kv +
+         (this & that).edges.size.toDouble / (this | that).edges.size.toDouble * ke) /
+         (kv+ke)
+   }
+
+  def getMostSimilar[T <: Graphable[A,B]](list:List[T])={
+    list.reduceLeft((x,y)=>if (this.sim(1,1,x.getGraph)>this.sim(1,1,y.getGraph)) x else y ).getClass 
+  }
 }
+
+trait Graphable[A,B]{
+   def getGraph():Graph[A,B];
+}
+
+
+
